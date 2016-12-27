@@ -3,7 +3,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
 <meta name="apple-mobile-web-app-capable" content="yes" />
-<link type="text/css" rel="stylesheet" href="public/css/materialize.min.css"  media="screen,projection"/>
+<link type="text/css" rel="stylesheet" href="//weihuagu.github.io/public/css/materialize.min.css"  media="screen,projection"/>
 </head>
 <body>
 <ul class="collection with-header">
@@ -12,7 +12,7 @@
 
                 <li class="collection-item"><p><strong>用支付宝捐赠一元钱</strong></p>
                 <p><strong>weihuagu_work@163.com</strong></p>
-                <p><img class="alignnone size-medium wp-image-329" src="donate1_0.jpg" sizes="(max-width: 300px) 85vw, 300px" /></p></li>
+                <p><img  src="donate1_0.jpg" sizes="" /></p></li>
 	</ul>
 </body>
 </html>
