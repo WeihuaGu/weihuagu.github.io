@@ -10,6 +10,20 @@
 <link type="text/css" rel="stylesheet" href="//weihuagu.github.io/public/css/materialize.min.css"  media="screen,projection"/>
 </head>
 <body>
+
+<nav>      
+				<div class="nav-wrapper">      	
+					<a href="#" class="brand-logo">&nbsp &nbsp铜川建站</a>
+					<ul id="nav-mobile" class="right hide-on-med-and-down">			
+						
+						<li>
+							<a href="https://weihuagu.github.io/donate/">捐助</a>
+						</li>  
+   
+					</ul>      
+				</div>
+</nav>
+
 <!-- Page Layout here -->
 <div class="container">
     <div class="row">
@@ -22,8 +36,6 @@
 						<span class="card-title">simple and clean</span>              <p>铜川企业建站最好的选择。</p>
 				</div>
 				<div class="card-action white-text">
-				<?php require_once 'contactway.php';?>	
-				<?php require_once 'robotchat.php';?>
 				</div>
 		</div>
 	</div>
