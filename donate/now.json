@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "alias": "profile",
+  "builds": [
+    { "src": "*.js", "use": "@now/static" },
+    { "src": "index.html", "use": "@now/static" },
+    { "src": "*.css", "use": "@now/static"},
+    { "src": "donate/*.js", "use": "@now/static" }
+  ]
+}
