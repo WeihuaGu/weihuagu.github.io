@@ -4,6 +4,7 @@
   "builds": [
     { "src": "donate/*.js", "use": "@now/static" },
     { "src": "donate/index.html", "use": "@now/static" },
-    { "src": "donate/*.css", "use": "@now/static"}
+    { "src": "donate/*.css", "use": "@now/static"},
+    { "src": "donate/*.jpg", "use": "@now/static"}
   ]
 }
